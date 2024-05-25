@@ -1,6 +1,8 @@
-# Welcome to my Python 100 Days Repository! 🚀
-
 <div align="center">
+  
+  # Welcome to my Python 100 Days Repository! 🚀
+
+
   <img src="https://cdn.worldvectorlogo.com/logos/python-3.svg" alt="Python Logo" width="350" height="120">
 </div>
 
